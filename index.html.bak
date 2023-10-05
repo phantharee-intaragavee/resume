@@ -1,0 +1,204 @@
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="CSS/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&amp;family=Kanit&amp;display=swap"
+      rel="stylesheet">
+  </head>
+  <body>
+    <title> RESUME </title>
+    <div class="container my-bg-white">
+      <div class="hero-image p-0 m-0 ">
+        <div class="hero-text my-h1white"> Phantharee Intaragavee </div>
+      </div>
+      <br>
+      <div class="row">
+        <div class="col-md-2 "> <a class="link-offset-2 link-underline link-underline-opacity-0 link-body-emphasis "
+            target="_blank" href="#about_me">
+            <h2> About me </h2>
+          </a> </div>
+        <div class="col-md-2 "> <a class="link-offset-2 link-underline link-underline-opacity-0 link-body-emphasis "
+            target="_blank" href="#contact_me">
+            <h2> Contact </h2>
+          </a> </div>
+        <div class="col-md-2 "> <a class="link-offset-2 link-underline link-underline-opacity-0 link-body-emphasis "
+            target="_blank" href="#my_education">
+            <h2> Education </h2>
+          </a> </div>
+        <div class="col-md-2 "> <a class="link-offset-2 link-underline link-underline-opacity-0 link-body-emphasis "
+            target="_blank" href="#my_languages">
+            <h2> Languages </h2>
+          </a> </div>
+        <div class="col-md-2  my-0"> <a class="link-offset-2 link-underline link-underline-opacity-0 link-body-emphasis "
+            target="_blank" href="#my_skill">
+            <h2> Skills &amp; Interests </h2>
+          </a> </div>
+        <div class="col-md-2"> <a class="link-offset-2 link-underline link-underline-opacity-0 link-body-emphasis "
+            target="_blank" href="#my_portfolio">
+            <h2> Portfolio </h2>
+          </a> </div>
+      </div>
+      <div class="row m-5 p-5"> <img src="images/Profile_pic-new.png" class="img-fluid">
+      </div>
+      <div class="row"> <a name="about_me" id="about_me"> </a>
+        <h1> A B O U T M E </h1>
+        <br>
+        <br>
+        <p><br>
+        </p>
+        <p>Nick name : Baitong <br>
+          <br>
+          Birthday Date : 23.07.2002 <br>
+          <br>
+          Nationality : Thai </p>
+      </div>
+      <br>
+      <div class="row"> <a name="about_me" id="contact_me"> </a>
+        <h1> C O N T A C T </h1>
+        <br>
+        <br>
+        <p><br>
+        </p>
+        <p><img src="images/iconHome.png" hight="50" class="img-fluid" width="50">
+          186 M.3 Ban Paeng, Phrom Buri , Singburi 16120 </p>
+        <br>
+        <p> <img src="images/iconPhone.png" hight="50" class="img-fluid" width="50">
+          +66 6 4996 4147 </p>
+        <br>
+        <p> <img src="images/iconIG01.png" hight="50" class="img-fluid" width="50">
+          <a class="link-offset-2 link-underline link-underline-opacity-0 link-body-emphasis"
+            href="https://www.instagram.com/y__j__ng"> IG : y__j__ng </a> </p>
+        <br>
+        <p> <img src="images/iconMail.png" hight="50" class="img-fluid" width="50">
+          <a class="link-offset-2 link-underline link-underline-opacity-0 link-body-emphasis"
+            href="mailto:iphantharee@gmail.com"> iphantharee@gmail.com </a> </p>
+      </div>
+      <br>
+      <div class="row"> <a name="about_me" id="my_education">
+          <h1> E D U C A T I O N </h1>
+          <br>
+          <br>
+          <strong>
+            <h2> 2020-2024 </h2>
+          </strong>
+          <p> Silpakorn University (Thailand), <br>
+            Bachelor of Arts, </p>
+          <p>Major in Information and Library Science (ILS) </p>
+          <p>Minor in Korean , GPA 3.52 </p>
+          <br>
+          <br>
+          <h2><strong> 2018-2020 </strong> </h2>
+          <p> Pibulwitthayalai School (Thailand), <br>
+          </p>
+          <p>science-mathematic program, GPA 3.73 </p>
+        </a></div>
+      <a name="about_me" id="my_education"> <br>
+      </a>
+      <div class="row"><a name="about_me" id="my_education"> </a><a name="about_me"
+          id="my_languages">
+          <h1> L A N G U A G E S</h1>
+          <br>
+          <br>
+          <h2> ENGLISH</h2>
+          <p> : B1 Level (The CEFR) </p>
+          <br>
+          <h2> KOREAN</h2>
+          <p> : Conversation </p>
+          <br>
+        </a></div>
+      <a name="about_me" id="my_languages"> <br>
+      </a>
+      <div class="row"><a name="about_me" id="my_languages"> </a><a name="about_me"
+          id="my_skill">
+          <h1> S K I L L S </h1>
+          <br>
+          <br>
+          <div> <img src="images/iconWorld.png" hight="100" class="img-fluid" width="100">
+            <img src="images/iconPpt.png" hight="100" class="img-fluid" width="100">
+            <img src="images/iconPsd.png" hight="100" class="img-fluid" width="100">
+            <img src="images/iconProcreate.png" hight="100" class="img-fluid" width="100">
+            <img src="images/iconEditvideo.png" hight="100" class="img-fluid" width="100">
+          </div>
+          <br>
+          <br>
+          <h1> I N T E R E S T S</h1>
+          <p><br>
+          </p>
+          <img src="images/iconHobbies02.png" hight="250" class="img-fluid" width="250">
+        </a></div>
+      <a name="about_me" id="my_skill"> <br>
+        <br>
+      </a>
+      <div class="row"><a name="about_me" id="my_skill"> </a><a name="about_me"
+          id="my_portfolio">
+          <h1> P O R T F O L I O </h1>
+          <div class="main">
+            <h2> WORK </h2>
+            <hr>
+            <p>My picture form studying in 'DIGITAL PHOTOGRAPHY AND VIDEO
+              PRODUCTION' subject.</p>
+            <div class="row">
+              <div class="column">
+                <div class="content"> <img src="images/status.png" style="width:100%"
+                    height="250" width="250">
+                  <h5>A statue in Silpakorn University.</h5>
+                  <br>
+                  <p><br>
+                  </p>
+                </div>
+              </div>
+              <div class="column">
+                <div class="content"> <img src="images/%E0%B8%82%E0%B8%99%E0%B8%A1.jpg"
+                    style="width:100%" height="250" width="250">
+                  <h5>The dessert</h5>
+                  <h5> </h5>
+                  <h5> Point of interest : Cake from Bake a wish bakery. </h5>
+                  <br>
+                </div>
+              </div>
+              <div class="column">
+                <div class="content"> <img src="images/rainpurple.png" style="width:100%"
+                    height="250" width="250">
+                  <h5>Rainpurple </h5>
+                  <h5> </h5>
+                  <h5> Golden hour : After the rain passes, you will see
+                    beautiful things.</h5>
+                </div>
+              </div>
+              <div class="column">
+                <div class="content"> <img src="images/%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99.png"
+                    style="width:100%" height="250" width="250">
+                  <h5> Sa Kaeo Bridge</h5>
+                  <h5> </h5>
+                  <h5> Third dimension : Picture of Sa Kaeo Bridge Silpakorn
+                    University. </h5>
+                </div>
+              </div>
+            </div>
+            <div class="content"> <img src="images/horizal.png" style="width:100%">
+              <h3>Granma home's horizal</h3>
+              <p> landscape : picture of the girl whos waiting someone until
+                twilight arrive. </p>
+            </div>
+            <div class="content"> <img src="images/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A.png"
+                style="width:100%">
+              <h3> Infograpic Desing </h3>
+              <p> GRAPHIC DESIGN IN INFORMATION WORK subject : Learn how to
+                design work for creativity way. </p>
+            </div>
+          </div>
+        </a></div>
+      <a name="about_me" id="my_portfolio"> </a></div>
+    <a name="about_me" id="my_portfolio">
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+crossorigin="anonymous"></script> </a>
+  </body>
+</html>
